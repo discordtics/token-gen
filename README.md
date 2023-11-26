@@ -28,7 +28,7 @@ Ensure your system meets these prerequisites:
 2. Windows 10 or 11.
 3. A curious mind.
 
-> Note: As of October 8, 2023, Token-Gen-AI is fully operational. We will promptly update if any patches become necessary. Remember, sharing knowledge benefits everyone; please provide credit if you find our work valuable.
+> Note: As of nov  26, 2023, Token-Gen-AI is fully operational. We will promptly update if any patches become necessary. Remember, sharing knowledge benefits everyone; please provide credit if you find our work valuable.
 
 > To aspiring developers: This source code is generously shared to facilitate understanding of machine learning in captcha-solving—an outcome of our dedication and hard work.
 
