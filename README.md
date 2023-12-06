@@ -20,8 +20,9 @@ Unlock the potential of cutting-edge AI technology for captcha solving with Toke
 Ensure your system meets these prerequisites:
 
 1. Python 9+ (the latest version is recommended for optimal performance).
-2. Windows 10 or 11.
-3. A curious mind.
+2. git installed on your device
+3. Windows 10 or 11.
+4. A curious mind.
 
 > Note: As of nov  26, 2023, Token-Gen-AI is fully operational. We will promptly update if any patches become necessary. Remember, sharing knowledge benefits everyone; please provide credit if you find our work valuable.
 
