@@ -11,7 +11,7 @@ Unlock the potential of cutting-edge AI technology for captcha solving with Toke
 
 1. Open your terminal.
 2. Clone the repository with `git clone https://github.com/discordtics/token-gen`.
-3. Navigate to the `token-gen` directory.
+3. Navigate to the `token-gen` directory by doing `cd token-gen` .
 4. Install required dependencies using `pip install -r requirements.txt`.
 5. Initiate the program with `python main.py`.
 
