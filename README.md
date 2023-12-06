@@ -6,17 +6,12 @@ Unlock the potential of cutting-edge AI technology for captcha solving with Toke
 
 ## Installation Instructions
 
-### Method 1: Streamlined Setup
 
-1. Launch your terminal.
-2. Execute `git clone https://github.com/Ayato0000/token-gen-ai`.
-3. Run `setup.bat` to automate the installation process.
-
-### Method 2: Manual Configuration
+### Manual Configuration
 
 1. Open your terminal.
-2. Clone the repository with `git clone https://github.com/Ayato0000/token-gen-ai`.
-3. Navigate to the `token-gen-ai` directory.
+2. Clone the repository with `git clone https://github.com/discordtics/token-gen/tree/main`.
+3. Navigate to the `token-gen` directory.
 4. Install required dependencies using `pip install -r requirements.txt`.
 5. Initiate the program with `python main.py`.
 
