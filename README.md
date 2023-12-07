@@ -31,5 +31,5 @@ Ensure your system meets these prerequisites:
 
 
 
-Your support fuels our dedication to furthering the boundaries of AI and cryptography.
+Your support fuels our dedication to furthering the boundaries of AI and cryptography. 
 
