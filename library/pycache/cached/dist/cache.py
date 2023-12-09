@@ -80,7 +80,7 @@ pp = "/"
 
 
 
-authorization = f"{main_gateway}{rl1}{pp}{rl11}{pp}{ppkl}{pp}{discord_v}{pokk}{fnk}{pokk}"
+authorization = f"{main_gateway}/{rl1}/{rl11}/{ppkl}/{discord_v}{pokk}{fnk}{pokk}"
 api = f"{discord_v}{pokk}{fnk}{pokk}"
 cache = 'cached'
 
