@@ -1,0 +1,4 @@
+requests
+watchdog
+colorama
+progressbar
