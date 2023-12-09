@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/discordtics/token-gen">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/imagess.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">discord token-generator V5</h3>
@@ -40,7 +40,7 @@
 
 Unlock the potential of cutting-edge AI technology for captcha solving with Token-Gen-AI.
 
-![AI in Action](gif.gif)
+![AI in Action](images.png)
 
 ## Installation Instructions
 
