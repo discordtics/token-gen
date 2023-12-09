@@ -40,7 +40,7 @@
 
 Unlock the potential of cutting-edge AI technology for captcha solving with Token-Gen-AI.
 
-![AI in Action](images.png)
+![AI in Action](images/image.png)
 
 ## Installation Instructions
 
