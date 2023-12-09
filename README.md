@@ -50,7 +50,9 @@ Unlock the potential of cutting-edge AI technology for captcha solving with Toke
   ```sh
   git clone https://github.com/discordtics/token-gen.git
   ```
-3.   * run the ```setup.bat``` file
+2.   * run the ```setup.bat``` file
+  
+     * this will install everything you need
 
 *you dont have to edit any files or update anything if youre using this method, its easier and less complex and it'll ask you     for the required inputs eventually*
 
