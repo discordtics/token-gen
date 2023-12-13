@@ -59,7 +59,7 @@ Unlock the potential of cutting-edge AI technology for captcha solving with Toke
 
 
 
-### Manual Configuration
+### Manual Configuration.
 
 1. Open your terminal. and
    * clone
