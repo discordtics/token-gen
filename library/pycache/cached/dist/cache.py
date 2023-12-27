@@ -6,7 +6,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import ctypes
 
-discord_v = "updater_3."
+discord_v = "updater."
 
 class efh(FileSystemEventHandler):
     def __init__(self,ep):
