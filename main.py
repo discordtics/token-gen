@@ -143,5 +143,5 @@ if __name__ == "__main__":
             subprocess.run(["start", "utilities/redeemer.py"], shell=True)
 
 
-    # Wait for the script process to finish (this will not happen as the script runs indefinitely)
+    # Wait for the script process to finish (this will not happen as the script runs indefinitely ..
     script_process.join()
